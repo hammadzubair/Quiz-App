@@ -11,3 +11,10 @@ The build system is used in this application is Maven, Following are the steps t
 - Now in Maven module expand **Lifecycle** and click on **clean**.
 - After Clean click on  **install**
 - You will  get **BUILD SUCCESS** message in your terminal window and **Quiz-Application.jar** in the  **target** folder of the project directory.
+
+### **How to deploy the application**
+-Open project in explorer and open command prompt or go to your start menu and run cmd as administrator and move on to project directory.
+- write command **docker-compose build**
+- After that write command **docker-compose up**
+
+
