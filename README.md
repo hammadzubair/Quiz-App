@@ -16,5 +16,6 @@ The build system is used in this application is Maven, Following are the steps t
 -Open project in explorer and open command prompt or go to your start menu and run cmd as administrator and move on to project directory.
 - write command **docker-compose build**
 - After that write command **docker-compose up**
-
-
+-  Make sure ports 8080 and 3306 are free to use as the applcation will deploy on port 8080 with database  3306
+- Go to browser and type  in url: http://localhost:8080/
+- The application will start working
