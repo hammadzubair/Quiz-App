@@ -1,7 +1,7 @@
 
 # Quiz App
 
-Quiz application is Java Web Application, developed on springboot,hibernate,maven with thymleaf, can be use for the assessment of student by the lecturer during lecture.
+Quiz application is Java Web Application, developed on springboot, hibernate, maven with thymleaf, can be use for the assessment of student by the lecturer during lecture.
 
 ### **How to build the application**
 The build system is used in this application is Maven, Following are the steps to build this application
